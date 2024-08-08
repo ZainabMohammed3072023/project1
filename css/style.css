@@ -272,11 +272,16 @@ h2 {
 }
 
 .images {
+   
     text-align: right;
     position: relative;
 }
+.imageBeh{
+    width: 30vh;
+}
 
 .image1 {
+    width: 30vh;
     position: absolute;
     top: 77px;
     left: 77px;
@@ -327,7 +332,7 @@ h2 {
 }
 
 .singers {
-    width: 670px;
+    width: 40vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: stretch;
@@ -696,6 +701,7 @@ table tr {
     width: 710px;
     height: 192px;
     padding: 50px;
+  
     flex-wrap: wrap;
 }
 
